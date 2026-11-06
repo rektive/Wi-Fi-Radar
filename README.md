@@ -41,6 +41,7 @@ When a human moves within an indoor wireless environment, their body causes micr
   - One dedicated Wi-Fi card or USB wireless adapter capable of **Monitor Mode** and raw **802.11 Radiotap capture**.
 
 ---
+# Note: This project was primarily tested on Linux!
 
 ## Installation & Setup
 
